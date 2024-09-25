@@ -37,8 +37,9 @@ iframe#tela{
     position: relative;
     top: 80px;
     left: 22px;
-    width: 269px;
+    width: 265px;
     height: 471px;
+    border-radius: 5px;
 }
 
 section#redes{
